@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/559ba96fb3256c7dd7348c8c6a11a358a5910f7b/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/0f1fb514982fc576f0502f96dafcd2bcdf80a447/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
 </p>
 
 백엔드 개발을 중심으로 **AI와 데이터를 신뢰할 수 있는 서비스로 연결하는 방법**을 탐구합니다.  
