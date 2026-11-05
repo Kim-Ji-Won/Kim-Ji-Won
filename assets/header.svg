@@ -1,21 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="JIWON — Backend, AI and Data. Charcoal, acid lime and abstract chrome graphic.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-label="JIWON — Backend, AI and Data. Charcoal, acid lime and abstract chrome graphic.">
 <defs>
 <linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcf9"/><stop offset=".16" stop-color="#777e7b"/><stop offset=".29" stop-color="#e8eee9"/><stop offset=".43" stop-color="#353c39"/><stop offset=".51" stop-color="#f5f8f4"/><stop offset=".67" stop-color="#8b948d"/><stop offset=".82" stop-color="#292e2b"/><stop offset="1" stop-color="#dbe5db"/></linearGradient>
 <linearGradient id="rim" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#333b32"/><stop offset=".45" stop-color="#bdc7b9"/><stop offset=".65" stop-color="#f4f9ee"/><stop offset="1" stop-color="#687466"/></linearGradient>
 <pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H6" stroke="#f1f3eb" stroke-opacity=".025"/></pattern>
-<clipPath id="frame"><rect width="1200" height="400" rx="16"/></clipPath>
+<clipPath id="frame"><rect width="1200" height="560" rx="16"/></clipPath>
 </defs>
 <g clip-path="url(#frame)">
-<rect width="1200" height="400" fill="#191c1b"/>
-<rect width="1200" height="400" fill="url(#lines)"/>
-<path d="M763 0V400" stroke="#3c423d"/>
+<rect width="1200" height="560" fill="#191c1b"/>
+<rect width="1200" height="560" fill="url(#lines)"/>
+<path d="M763 0V560" stroke="#3c423d"/>
 <text x="48" y="47" font-family="monospace" font-size="12" fill="#9aa397" letter-spacing="2.5">JIWON / INDEPENDENT DEV LOG</text>
 <text x="1160" y="47" text-anchor="end" font-family="monospace" font-size="12" fill="#9aa397" letter-spacing="1">VOL. 01 — IN PROGRESS</text>
-<text x="41" y="209" font-family="Arial Black,Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-8" fill="#eeeee5">JIWON<tspan fill="#ccff5f">.</tspan></text>
-<path d="M50 238H705" stroke="#51594a"/>
-<text x="50" y="278" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#ccff5f" letter-spacing=".5">BACKEND / AI / DATA</text>
-<text x="50" y="350" font-family="monospace" font-size="14" fill="#9aa397" letter-spacing=".5">LESS NOISE. MORE INTENT.</text>
-<g transform="translate(979 198)">
+<text x="41" y="265" font-family="Arial Black,Arial,sans-serif" font-size="164" font-weight="900" letter-spacing="-8" fill="#eeeee5">JIWON<tspan fill="#ccff5f">.</tspan></text>
+<path d="M50 304H705" stroke="#51594a"/>
+<text x="50" y="350" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#ccff5f" letter-spacing=".5">BACKEND / AI / DATA</text>
+<text x="50" y="497" font-family="monospace" font-size="14" fill="#9aa397" letter-spacing=".5">LESS NOISE. MORE INTENT.</text>
+<g transform="translate(979 268) scale(1.14)">
 <ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(-36)" fill="none" stroke="#080a09" stroke-width="33"/>
 <ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(-36)" fill="none" stroke="url(#chrome)" stroke-width="25"/>
 <ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(38)" fill="none" stroke="#0c100d" stroke-width="32"/>
@@ -26,10 +26,10 @@
 <rect x="135" y="-48" width="8" height="8" fill="#ccff5f"/>
 <path d="M-159-109v14m-7-7h14M155 101v14m-7-7h14" stroke="#798373" stroke-width="1"/>
 </g>
-<rect x="801" y="329" width="137" height="30" fill="#ccff5f"/>
-<text x="814" y="349" font-family="monospace" font-size="12" font-weight="700" fill="#1b2215" letter-spacing="1">WORK IN MOTION</text>
+<rect x="801" y="473" width="137" height="30" fill="#ccff5f"/>
+<text x="814" y="493" font-family="monospace" font-size="12" font-weight="700" fill="#1b2215" letter-spacing="1">WORK IN MOTION</text>
 <g stroke="#99a18f">
-<path d="M1039 334v22M1044 334v22M1052 334v22M1061 334v22M1065 334v22M1076 334v22M1081 334v22M1087 334v22M1098 334v22M1103 334v22M1112 334v22M1124 334v22M1131 334v22M1135 334v22M1146 334v22M1151 334v22" stroke-width="2"/>
-<path d="M1056 334v22M1093 334v22M1118 334v22M1140 334v22" stroke-width="4"/>
+<path d="M1039 478v22M1044 478v22M1052 478v22M1061 478v22M1065 478v22M1076 478v22M1081 478v22M1087 478v22M1098 478v22M1103 478v22M1112 478v22M1124 478v22M1131 478v22M1135 478v22M1146 478v22M1151 478v22" stroke-width="2"/>
+<path d="M1056 478v22M1093 478v22M1118 478v22M1140 478v22" stroke-width="4"/>
 </g>
 </g></svg>
