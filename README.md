@@ -25,7 +25,7 @@
 
 ## Selected Work
 
-### Alpha Twin &nbsp; · &nbsp; <sub>IN DEVELOPMENT</sub>
+### [Alpha Twin ↗](https://github.com/Kim-Ji-Won/Alpha_Twin) &nbsp; · &nbsp; <sub>IN DEVELOPMENT</sub>
 
 기업 공시와 재무 데이터를 바탕으로 기업을 이해하고, 분석의 근거를 추적하는 **AI 투자 인텔리전스 서비스**를 개발하고 있습니다.
 
@@ -35,7 +35,7 @@
 | **AI & Retrieval** | 공시 문서 처리 · 임베딩과 검색 · 근거 기반 분석 구조 개발 |
 | **Mobile** | React Native · Expo 기반 인터페이스 |
 
-<sub>로컬에서 개발 중 · GitHub 소스 공개 준비 중</sub>
+<sub>GitHub 소스 공개 · 개발 진행 중</sub>
 
 ### [LLM System Lab ↗](https://github.com/Kim-Ji-Won/LLM-System-Lab)
 
