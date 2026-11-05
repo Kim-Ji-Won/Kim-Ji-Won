@@ -1,19 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jiwon — Backend Engineering, AI and Data">
-<rect width="1200" height="320" rx="16" fill="#101923"/>
-<path d="M780 0V320M860 0V320M940 0V320M1020 0V320M1100 0V320M1180 0V320M740 80H1200M740 160H1200M740 240H1200" stroke="#23303e" stroke-opacity=".55"/>
-<rect x="56" y="51" width="28" height="3" rx="1.5" fill="#78a6c8"/>
-<text x="98" y="58" fill="#9dabb9" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">DEVELOPER PROFILE</text>
-<text x="52" y="151" fill="#f0f3f6" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="2">JIWON</text>
-<text x="56" y="197" fill="#bcc8d3" font-family="Arial,sans-serif" font-size="22" letter-spacing=".6">Backend Engineering · AI &amp; Data</text>
-<text x="56" y="266" fill="#8293a5" font-family="Arial,sans-serif" font-size="15">Thoughtful systems. Meaningful data.</text>
-<g fill="#14212e" stroke="#41586d" stroke-width="1.5">
-<rect x="827" y="71" width="188" height="76" rx="9"/>
-<rect x="875" y="122" width="188" height="76" rx="9"/>
-<rect x="923" y="173" width="188" height="76" rx="9"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="JIWON — Backend Engineering, AI and Data. A cheerful cream and sky-blue coding desk illustration.">
+<defs><pattern id="paper" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".8" fill="#d8d2c4" opacity=".5"/></pattern></defs>
+<rect width="1200" height="320" rx="20" fill="#fff8e9"/>
+<rect width="1200" height="320" rx="20" fill="url(#paper)"/>
+<path d="M756 0H1180Q1200 0 1200 20V300Q1200 320 1180 320H804Q740 250 774 166Q804 91 756 0Z" fill="#deedf6"/>
+<g stroke="#354653" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<path d="M1095 55l5-12 6 12 13 2-10 9 2 13-11-6-12 6 3-13-10-9z" fill="#f5d36c" transform="rotate(12 1100 60)"/>
+<path d="M800 197l4-9 5 9 10 2-8 7 2 10-9-5-9 5 2-10-7-7z" fill="#f5d36c" stroke-width="2"/>
+<path d="M822 66c-2-13 13-20 23-13 5-20 32-18 36 0 15-3 24 18 10 24h-61c-10 0-15-7-8-11z" fill="#fffdf7" stroke="#7e9eaf" stroke-width="2"/>
+<path d="M56 53h24" stroke="#de735c" stroke-width="5"/>
 </g>
-<g fill="#90a8bc" font-family="monospace" font-size="13" letter-spacing="2">
-<text x="846" y="101">DATA</text><text x="894" y="152">SYSTEMS</text><text x="942" y="203">INTELLIGENCE</text>
+<text x="94" y="58" fill="#7d8588" font-family="Arial,sans-serif" font-size="13" letter-spacing="2.8">HELLO, WORLD!</text>
+<path d="M57 160Q186 151 326 161" fill="none" stroke="#f4d478" stroke-width="13" stroke-linecap="round"/>
+<text x="52" y="151" fill="#293e50" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="2">JIWON</text>
+<text x="56" y="207" fill="#4d6372" font-family="Arial,sans-serif" font-size="22" letter-spacing=".3">Backend Engineering · AI &amp; Data</text>
+<text x="56" y="269" fill="#82867f" font-family="Arial,sans-serif" font-size="15">A little curiosity. A little code. Every day.</text>
+<g stroke="#354653" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+<path d="M809 268Q961 263 1138 268" fill="none" stroke="#9fb7c6"/>
+<g transform="rotate(-4 956 186)">
+<rect x="854" y="112" width="194" height="133" rx="12" fill="#faf6ed"/>
+<rect x="866" y="125" width="170" height="104" rx="5" fill="#b7d3e4"/>
+<circle cx="951" cy="119" r="1.5" fill="#354653" stroke="none"/>
+<path d="M875 245h152l30 16q-90 12-212 0z" fill="#f7f1e1"/>
+<path d="M929 251h39" stroke="#a4aaac" stroke-width="2"/>
+<path d="M906 165l-13 12 13 12m88-24 13 12-13 12m-31-28-12 36" fill="none" stroke="#425c70" stroke-width="4"/>
+<circle cx="934" cy="205" r="2" fill="#425c70" stroke="none"/><circle cx="968" cy="205" r="2" fill="#425c70" stroke="none"/>
+<path d="M946 207q5 5 10 0" fill="none" stroke-width="2"/>
+<path d="M1008 137l3 5 6 1-4 4 1 6-6-3-5 3 1-6-4-4 6-1z" fill="#f4d36d" stroke-width="1.5"/>
 </g>
-<path d="M945 224H1087" stroke="#506b81" stroke-width="2"/>
-<circle cx="1087" cy="224" r="4" fill="#8db6d4"/>
+<path d="M1080 221h34v32q-17 13-34 0z" fill="#e98a73"/>
+<path d="M1114 226h8q14 11 0 20h-8" fill="none"/>
+<path d="M1088 207q-5-6 1-12m13 12q-5-6 1-12" fill="none" stroke="#8da6b4" stroke-width="2"/>
+<path d="M1122 119l-9 24m23-15-15 10" stroke="#e89b77" stroke-width="3"/>
+</g>
+<circle cx="750" cy="89" r="4" fill="#e9957d"/>
+<circle cx="1145" cy="190" r="3" fill="#e6bd58"/>
+<circle cx="792" cy="252" r="3" fill="#8ba8ba"/>
 </svg>
