@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/43c41f9cec4817dcbdeff4898c4a1462beb88ab7/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/1cfb0a08016e55b02d925750f3f527c51db19000/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
 </p>
 
 ## About
