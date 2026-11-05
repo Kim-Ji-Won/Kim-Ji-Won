@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="JIWON. Backend, AI and Data. Charcoal and lime graphic developer banner.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="JIWON — Backend, AI and Data. Charcoal, acid lime and abstract chrome graphic.">
 <defs>
-<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#333637" stroke-width="1"/></pattern>
-<clipPath id="clip"><rect width="1200" height="400" rx="18"/></clipPath>
+<linearGradient id="chrome" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fafcf9"/><stop offset=".16" stop-color="#777e7b"/><stop offset=".29" stop-color="#e8eee9"/><stop offset=".43" stop-color="#353c39"/><stop offset=".51" stop-color="#f5f8f4"/><stop offset=".67" stop-color="#8b948d"/><stop offset=".82" stop-color="#292e2b"/><stop offset="1" stop-color="#dbe5db"/></linearGradient>
+<linearGradient id="rim" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#333b32"/><stop offset=".45" stop-color="#bdc7b9"/><stop offset=".65" stop-color="#f4f9ee"/><stop offset="1" stop-color="#687466"/></linearGradient>
+<pattern id="lines" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0H6" stroke="#f1f3eb" stroke-opacity=".025"/></pattern>
+<clipPath id="frame"><rect width="1200" height="400" rx="16"/></clipPath>
 </defs>
-<g clip-path="url(#clip)">
-<rect width="1200" height="400" fill="#1c1e20"/>
-<rect x="744" width="456" height="400" fill="url(#grid)"/>
-<path d="M744 0V400" stroke="#414544" stroke-dasharray="5 7"/>
-<text x="48" y="49" font-family="monospace" font-size="14" fill="#bfc5bd" letter-spacing="2">PERSONAL SPACE / DEV LOG</text>
-<circle cx="1118" cy="43" r="5" fill="#d2fa68"/>
-<text x="1140" y="48" font-family="monospace" font-size="13" fill="#bfc5bd">01</text>
-<text x="42" y="207" font-family="Arial Black,Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-8" fill="#f3f0e7">JIWON<tspan fill="#d2fa68">.</tspan></text>
-<path d="M50 234H669" stroke="#596052"/>
-<text x="50" y="273" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#d2fa68">BACKEND / AI / DATA</text>
-<text x="50" y="346" font-family="monospace" font-size="16" fill="#b8bdb8">stay curious. build something.</text>
-<g transform="translate(820 89) rotate(-9 120 49)">
-<rect x="5" y="7" width="236" height="94" rx="3" fill="#0d0f10"/>
-<rect width="236" height="94" rx="3" fill="#d2fa68"/>
-<text x="24" y="37" font-family="monospace" font-size="14" fill="#263021" letter-spacing="1">CURRENT STATUS</text>
-<text x="22" y="72" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#1c2219">BUILDING THINGS</text>
+<g clip-path="url(#frame)">
+<rect width="1200" height="400" fill="#191c1b"/>
+<rect width="1200" height="400" fill="url(#lines)"/>
+<path d="M763 0V400" stroke="#3c423d"/>
+<text x="48" y="47" font-family="monospace" font-size="12" fill="#9aa397" letter-spacing="2.5">JIWON / INDEPENDENT DEV LOG</text>
+<text x="1160" y="47" text-anchor="end" font-family="monospace" font-size="12" fill="#9aa397" letter-spacing="1">VOL. 01 — IN PROGRESS</text>
+<text x="41" y="209" font-family="Arial Black,Arial,sans-serif" font-size="150" font-weight="900" letter-spacing="-8" fill="#eeeee5">JIWON<tspan fill="#ccff5f">.</tspan></text>
+<path d="M50 238H705" stroke="#51594a"/>
+<text x="50" y="278" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#ccff5f" letter-spacing=".5">BACKEND / AI / DATA</text>
+<text x="50" y="350" font-family="monospace" font-size="14" fill="#9aa397" letter-spacing=".5">LESS NOISE. MORE INTENT.</text>
+<g transform="translate(979 198)">
+<ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(-36)" fill="none" stroke="#080a09" stroke-width="33"/>
+<ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(-36)" fill="none" stroke="url(#chrome)" stroke-width="25"/>
+<ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(38)" fill="none" stroke="#0c100d" stroke-width="32"/>
+<ellipse cx="0" cy="0" rx="131" ry="43" transform="rotate(38)" fill="none" stroke="url(#rim)" stroke-width="24"/>
+<path d="M-100 78C-45 112 93 25 107-58" fill="none" stroke="url(#chrome)" stroke-width="25" stroke-linecap="round"/>
+<path d="M-103 74C-47 107 88 23 103-57" fill="none" stroke="#e2e8df" stroke-opacity=".65" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M-139 43L140-44" stroke="#ccff5f" stroke-width="2"/>
+<rect x="135" y="-48" width="8" height="8" fill="#ccff5f"/>
+<path d="M-159-109v14m-7-7h14M155 101v14m-7-7h14" stroke="#798373" stroke-width="1"/>
 </g>
-<g transform="translate(1005 235) rotate(12)">
-<path d="M0-55l15 17 22-10 2 24 23 6-13 20 13 20-23 6-2 24-22-10L0 59l-15-21-22 10-2-24-23-6 13-20-13-20 23-6 2-24 22 10z" fill="#9d9beb" stroke="#1c1e20" stroke-width="3"/>
-<ellipse cx="-16" cy="-6" rx="4" ry="8" fill="#25252d"/><ellipse cx="15" cy="-6" rx="4" ry="8" fill="#25252d"/>
-<path d="M-19 12q18 25 37 0" fill="none" stroke="#25252d" stroke-width="4" stroke-linecap="round"/>
+<rect x="801" y="329" width="137" height="30" fill="#ccff5f"/>
+<text x="814" y="349" font-family="monospace" font-size="12" font-weight="700" fill="#1b2215" letter-spacing="1">WORK IN MOTION</text>
+<g stroke="#99a18f">
+<path d="M1039 334v22M1044 334v22M1052 334v22M1061 334v22M1065 334v22M1076 334v22M1081 334v22M1087 334v22M1098 334v22M1103 334v22M1112 334v22M1124 334v22M1131 334v22M1135 334v22M1146 334v22M1151 334v22" stroke-width="2"/>
+<path d="M1056 334v22M1093 334v22M1118 334v22M1140 334v22" stroke-width="4"/>
 </g>
-<g transform="translate(797 282) rotate(-6)">
-<rect width="145" height="48" rx="24" fill="#ece9df"/>
-<text x="23" y="31" font-family="monospace" font-size="20" font-weight="700" fill="#242829">&lt;hello /&gt;</text>
-</g>
-<path d="M1103 132l32-7-15 29m15-29-39 48" fill="none" stroke="#ece9df" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M806 213l7-18 7 18 18 7-18 7-7 18-7-18-18-7z" fill="#d2fa68"/>
-<text x="820" y="366" font-family="monospace" font-size="12" fill="#8e968c" letter-spacing="2">IDEAS → CODE → REPEAT</text>
 </g></svg>
