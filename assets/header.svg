@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Jiwon — Backend Engineering, AI and Data">
+<rect width="1200" height="320" rx="16" fill="#101923"/>
+<path d="M780 0V320M860 0V320M940 0V320M1020 0V320M1100 0V320M1180 0V320M740 80H1200M740 160H1200M740 240H1200" stroke="#23303e" stroke-opacity=".55"/>
+<rect x="56" y="51" width="28" height="3" rx="1.5" fill="#78a6c8"/>
+<text x="98" y="58" fill="#9dabb9" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">DEVELOPER PROFILE</text>
+<text x="52" y="151" fill="#f0f3f6" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="2">JIWON</text>
+<text x="56" y="197" fill="#bcc8d3" font-family="Arial,sans-serif" font-size="22" letter-spacing=".6">Backend Engineering · AI &amp; Data</text>
+<text x="56" y="266" fill="#8293a5" font-family="Arial,sans-serif" font-size="15">Thoughtful systems. Meaningful data.</text>
+<g fill="#14212e" stroke="#41586d" stroke-width="1.5">
+<rect x="827" y="71" width="188" height="76" rx="9"/>
+<rect x="875" y="122" width="188" height="76" rx="9"/>
+<rect x="923" y="173" width="188" height="76" rx="9"/>
+</g>
+<g fill="#90a8bc" font-family="monospace" font-size="13" letter-spacing="2">
+<text x="846" y="101">DATA</text><text x="894" y="152">SYSTEMS</text><text x="942" y="203">INTELLIGENCE</text>
+</g>
+<path d="M945 224H1087" stroke="#506b81" stroke-width="2"/>
+<circle cx="1087" cy="224" r="4" fill="#8db6d4"/>
+</svg>
