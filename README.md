@@ -47,7 +47,7 @@ LLM 학습, Transformer, 추론, RAG를 연결해서 이해하기 위한 인터�
 ## Working Stack
 
 <p>
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/main/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/6a20c72a77b0dde7d04deab8ff7e08860abef29c/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
 </p>
 
 현재 프로젝트에서 사용하는 기술입니다. 기술의 개수를 늘리기보다, 각 도구가 맡는 역할과 선택한 이유를 이해하는 데 집중하고자 합니다.
