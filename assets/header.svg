@@ -18,7 +18,7 @@
 <rect x="5" y="7" width="236" height="94" rx="3" fill="#0d0f10"/>
 <rect width="236" height="94" rx="3" fill="#d2fa68"/>
 <text x="24" y="37" font-family="monospace" font-size="14" fill="#263021" letter-spacing="1">CURRENT STATUS</text>
-<text x="22" y="72" font-family="Arial,sans-serif" font-size="29" font-weight="900" fill="#1c2219">BUILDING THINGS</text>
+<text x="22" y="72" font-family="Arial,sans-serif" font-size="22" font-weight="900" fill="#1c2219">BUILDING THINGS</text>
 </g>
 <g transform="translate(1005 235) rotate(12)">
 <path d="M0-55l15 17 22-10 2 24 23 6-13 20 13 20-23 6-2 24-22-10L0 59l-15-21-22 10-2-24-23-6 13-20-13-20 23-6 2-24 22 10z" fill="#9d9beb" stroke="#1c1e20" stroke-width="3"/>
