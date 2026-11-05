@@ -1,52 +1,54 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/main/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
+</p>
 
-# JIWON
-**Backend Engineering · AI & Data**
+백엔드 개발을 중심으로 **AI와 데이터를 신뢰할 수 있는 서비스로 연결하는 방법**을 탐구합니다.  
+프로젝트를 만들며 배우고, 구현 과정의 문제와 설계 이유를 기록합니다.
 
-데이터를 이해하고, 신뢰할 수 있는 서비스로 연결하는 개발을 지향합니다.
+### Current Focus
 
-<sub>Currently building <b>Alpha Twin</b> · Learning through projects</sub>
+**Backend systems** &nbsp; / &nbsp; **Data engineering** &nbsp; / &nbsp; **Applied AI**
 
-</div>
+API와 데이터 모델링, 공시 데이터의 품질, 검색과 분석의 근거를 다루는 데 관심이 있습니다.
 
 ---
 
-## 01 / Building
+### Selected Work
 
-### Alpha Twin
-**AI Investment Intelligence · In Development**
+#### Alpha Twin &nbsp; · &nbsp; <sub>IN DEVELOPMENT</sub>
 
-기업 공시와 재무 데이터를 바탕으로 기업을 이해하고, 분석의 근거를 추적할 수 있는 AI 투자 인텔리전스 서비스를 개발하고 있습니다.
+기업 공시와 재무 데이터를 바탕으로 기업을 이해하고, 분석의 근거를 추적하는 **AI 투자 인텔리전스 서비스**를 개발하고 있습니다.
 
-- **Backend & Data** — Fastify API, OpenDART 연동, 재무 데이터 정규화
-- **AI Systems** — 공시 문서 처리, 임베딩·검색, 근거 기반 분석 구조 개발
-- **Mobile** — React Native · Expo 기반 모바일 인터페이스
-
-`TypeScript` `Fastify` `PostgreSQL` `OpenAI API` `React Native` `Expo`
-
-<sub>로컬에서 개발 중이며, GitHub 소스 공개를 준비하고 있습니다.</sub>
-
-## 02 / Exploring
-
-### [LLM System Lab ↗](https://github.com/Kim-Ji-Won/LLM-System-Lab)
-**An interactive guide to LLM systems**
-
-LLM의 학습부터 Transformer, 추론, RAG까지 연결해서 이해하기 위한 인터랙티브 시각화입니다. 모델을 직접 학습하는 엔진이 아닌, AI 구조를 탐색하는 학습 프로젝트입니다.
-
-`React` `TypeScript` `Tailwind CSS` `SVG`
-
-## 03 / Learning
-
-| Backend | AI & Data |
+| Layer | Engineering focus |
 | :--- | :--- |
-| API Design & Testing | LLM Fundamentals & RAG |
-| Database Modeling & SQL | Retrieval & Evaluation |
-| Reliability & Error Handling | Data Quality & Provenance |
+| **Backend & Data** | Fastify API · OpenDART 연동 · 재무 데이터 정규화 |
+| **AI & Retrieval** | 공시 문서 처리 · 임베딩과 검색 · 근거 기반 분석 구조 개발 |
+| **Mobile** | React Native · Expo 기반 인터페이스 |
 
-프로젝트에서 마주한 문제를 공부하고, 설계 이유와 해결 과정을 기록해 나갑니다.
+<sub>로컬에서 개발 중 · GitHub 소스 공개 준비 중</sub>
+
+#### [LLM System Lab ↗](https://github.com/Kim-Ji-Won/LLM-System-Lab)
+
+LLM 학습, Transformer, 추론, RAG를 연결해서 이해하기 위한 인터랙티브 시각화.  
+**React · TypeScript · SVG**로 AI 시스템의 구조를 탐색하는 학습 프로젝트입니다.
 
 ---
 
-<div align="center">
-<sub>Build with purpose. Learn with curiosity.</sub>
-</div>
+### Working Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/main/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
+</p>
+
+<sub>현재 프로젝트에서 사용하는 기술을 중심으로 정리했습니다.</sub>
+
+### Learning Log
+
+**Backend** — API Design, Database Modeling, Testing  
+**AI & Data** — LLM Fundamentals, RAG, Retrieval Evaluation
+
+작은 실험부터 프로젝트의 설계 결정까지, 배운 내용을 코드와 기록으로 남겨갑니다.
+
+---
+
+<sub>JIWON &nbsp; / &nbsp; Build carefully. Keep learning.</sub>
