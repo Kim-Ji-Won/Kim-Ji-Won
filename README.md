@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI+%C2%B7+Data;Building+Alpha+Twin+%26+Axiom;Build.+Understand.+Document." width="100%" alt="Backend · AI · Data — Building Alpha Twin &amp; Axiom" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI+%C2%B7+Data;Building+Alpha+Twin+%2B+Axiom+%2B+AETHER;Build.+Understand.+Document." width="100%" alt="Backend · AI · Data — Building Alpha Twin, Axiom &amp; AETHER" /></a>
 </p>
 
 ## 👋 About
@@ -11,7 +11,7 @@
 **Hi, I'm Jiwon.**  
 백엔드를 중심으로 **데이터와 AI를 서비스로 연결하는 개발자**를 지향합니다.
 
-- **Building** — Alpha Twin · AI 투자 인텔리전스 / Axiom · Agent Runtime
+- **Building** — Alpha Twin · Axiom · AETHER
 - **Exploring** — Backend Architecture · Data Engineering · LLM & RAG
 - **Mindset** — 직접 만들고, 설계 이유를 이해하고, 배운 것을 기록하기
 
@@ -52,6 +52,18 @@ AI 에이전트의 실행 상태와 제어를 관리하는 **Reliable Agent Runt
 | **Next Steps** | 실행 루프 · 도구 검증 · 승인 정책 · 복구와 재시도 |
 
 <sub>초기 개발 단계 · 실행 루프와 도구 실행은 구현 예정</sub>
+
+### [AETHER ↗](https://github.com/Kim-Ji-Won/AETHER) &nbsp; · &nbsp; <sub>EARLY DEVELOPMENT</sub>
+
+자연스러운 한국어 음성 대화와 권한 기반 컴퓨터 작업을 목표로 하는 **macOS AI Assistant**를 만들고 있습니다.
+
+| Layer | Engineering focus |
+| :--- | :--- |
+| **Desktop & UI** | Tauri 2 · React · TypeScript 기반 최소 데스크톱 앱 |
+| **Local Validation** | Apple Silicon 앱 번들 빌드 · 독립 실행 · 첫 창 상호작용 확인 |
+| **Next Steps** | 서명·공증·배포 준비 · 음성·AI·컴퓨터 제어 기능 개발 |
+
+<sub>초기 로컬 프로토타입 · 음성·AI·컴퓨터 제어는 구현 예정</sub>
 
 ---
 
