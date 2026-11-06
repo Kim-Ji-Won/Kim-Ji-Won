@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/4d21e19a25141735785e9f2bcda7afbda3fba9a7/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/ad88324863e99a4644fb5b12c2a20cd02b0f6d05/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI+%C2%B7+Data;Building+Alpha+Twin+%2B+Axiom+%2B+AETHER;Build.+Understand.+Document." width="100%" alt="Backend · AI · Data — Building Alpha Twin, Axiom &amp; AETHER" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI;Building+Alpha+Twin+%2B+Axiom+%2B+AETHER;Build.+Understand.+Document." width="100%" alt="Backend · AI — Building Alpha Twin, Axiom &amp; AETHER" /></a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ## 🪐 Code Universe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/output/code-universe.svg" width="100%" alt="Kim-Ji-Won's repositories orbiting in RepoVerse" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/output/code-universe.svg" width="680" alt="Kim-Ji-Won's repositories orbiting in RepoVerse" />
 </p>
 
 ## 🛠️ Working Stack
