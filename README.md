@@ -24,7 +24,7 @@
 ## 🪐 Code Universe
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/output/universe.svg" width="100%" alt="Kim-Ji-Won's repositories orbiting in RepoVerse" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/output/universe.svg?v=2" width="100%" alt="Kim-Ji-Won's repositories orbiting in RepoVerse" />
 </p>
 
 ## 🛠️ Working Stack
