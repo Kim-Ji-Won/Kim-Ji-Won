@@ -11,7 +11,7 @@
 ## 💻 Dev Session
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/7cc9c39fd871c8bdaeec840932d8050bf0c3e6f0/assets/terminal.svg" width="100%" alt="jiwon@dev — ls projects/ — Alpha Twin / Axiom / AETHER — Build. Understand. Document." />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/cd447358f029f4c9358e667ef65d4c58cf07cbb6/assets/terminal.svg" width="100%" alt="jiwon@dev — ls projects/ — Alpha Twin / Axiom / AETHER — Build. Understand. Document." />
 </p>
 
 - [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — AI Investment Intelligence
@@ -23,7 +23,7 @@
 ## 🛠️ Working Stack
 
 <p>
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/348a1fd7b24bdbfd53b2ab6c6ef7768a9d88336d/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/f1b3ae15ea6b6f3fedc7a88cb35488dc5f2ce8ae/assets/stack.svg" width="100%" alt="CORE: TypeScript · Node.js · Fastify · PostgreSQL · OpenAI. INTERFACE: React · React Native · Expo · Tauri · Rust." />
 </p>
 
 ## 🎯 Current Focus
