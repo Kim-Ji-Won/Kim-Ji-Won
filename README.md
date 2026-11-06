@@ -9,10 +9,10 @@
 ## 💻 Dev Session
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/36a1804ac0f56eb5be1cace858b929b5a03e6acb/assets/terminal.svg" width="100%" alt="jiwon@dev — Backend Engineer · AI Builder — Building Alpha Twin / Axiom / AETHER" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/7cc9c39fd871c8bdaeec840932d8050bf0c3e6f0/assets/terminal.svg" width="100%" alt="jiwon@dev — ls projects/ — Alpha Twin / Axiom / AETHER — Build. Understand. Document." />
 </p>
 
-- [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — AI 투자 인텔리전스
+- [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — AI Investment Intelligence
 - [⚙️ **Axiom ↗**](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) — Reliable Agent Runtime
 - [🔮 **AETHER ↗**](https://github.com/Kim-Ji-Won/AETHER) — macOS AI Assistant
 
@@ -21,7 +21,7 @@
 ## 🛠️ Working Stack
 
 <p>
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/d13f599b0a5ae2ce37707c4c571a11671310925b/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/348a1fd7b24bdbfd53b2ab6c6ef7768a9d88336d/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
 </p>
 
 ## 🎯 Current Focus
@@ -41,6 +41,5 @@
 </picture>
 
 <p align="center">
-  <b>Build. Understand. Document.</b><br/>
-  <sub>Made with <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
+  <sub>Made with <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
 </p>
