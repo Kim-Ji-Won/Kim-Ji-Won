@@ -23,7 +23,7 @@
 ## 🛠️ Working Stack
 
 <p>
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/8389ffa855fb346605a123046375222a02aeca79/assets/stack.svg" width="100%" alt="CORE: TypeScript · Node.js · Fastify · PostgreSQL · OpenAI. INTERFACE: React · React Native · Expo · Tauri · Rust." />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/de392de6e09ad9085a746038dbfbde78ef623343/assets/stack.svg" width="100%" alt="CORE: TypeScript · Node.js · Fastify · PostgreSQL · OpenAI. INTERFACE: React · React Native · Expo · Tauri · Rust." />
 </p>
 
 ## 🎯 Current Focus
