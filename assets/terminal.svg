@@ -24,24 +24,24 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 <title id="title">Jiwon's developer terminal</title>
-<desc id="desc">jiwon@dev ~ $ whoami. Backend Engineer · AI Builder. Building Alpha Twin, Axiom and AETHER.</desc>
+<desc id="desc">jiwon@dev ~ $ ls projects/. Alpha Twin, Axiom, AETHER. Build. Understand. Document.</desc>
 <style>
 text{font-family:ui-monospace,"SF Mono",Menlo,Consolas,monospace;font-size:18px;fill:#eeeee5}
-@keyframes ln0 {0%,0%{opacity:0}3%,88%{opacity:1}96%,100%{opacity:0}} .ln0{animation:ln0 12s ease-in-out infinite}
-@keyframes ln1 {0%,5%{opacity:0}8%,88%{opacity:1}96%,100%{opacity:0}} .ln1{animation:ln1 12s ease-in-out infinite}
-@keyframes ln2 {0%,10%{opacity:0}13%,88%{opacity:1}96%,100%{opacity:0}} .ln2{animation:ln2 12s ease-in-out infinite}
-@keyframes ln3 {0%,15%{opacity:0}18%,88%{opacity:1}96%,100%{opacity:0}} .ln3{animation:ln3 12s ease-in-out infinite}
+@keyframes reveal{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+.ln0,.ln1,.ln2,.ln3,.project{opacity:0;animation:reveal .5s ease-out forwards}
+.ln0{animation-delay:.15s}.ln1{animation-delay:.65s}.ln2{animation-delay:2.2s}.ln3{animation-delay:2.7s}
+.p1{animation-delay:.7s}.p2{animation-delay:1.15s}.p3{animation-delay:1.6s}
 @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
 .cursor{animation:blink 1s steps(1) infinite}
-@media(prefers-reduced-motion:reduce){.ln0,.ln1,.ln2,.ln3,.cursor{animation:none;opacity:1}}
+@media(prefers-reduced-motion:reduce){.ln0,.ln1,.ln2,.ln3,.project,.cursor{animation:none;opacity:1}}
 </style>
 <rect x="1" y="1" width="798" height="256" rx="14" fill="#191c1b" stroke="#3c423d"/>
 <path d="M1 45H799" stroke="#343b34"/>
 <circle cx="24" cy="24" r="5" fill="#596151"/><circle cx="44" cy="24" r="5" fill="#889779"/><circle cx="64" cy="24" r="5" fill="#ccff5f"/>
 <text x="400" y="28" text-anchor="middle" style="font-size:12px;fill:#9aa397;letter-spacing:1px">jiwon — dev session</text>
 <text x="768" y="28" text-anchor="end" style="font-size:10px;fill:#ccff5f">● LIVE</text>
-<g class="ln0"><text x="36" y="85"><tspan fill="#ccff5f">jiwon@dev</tspan><tspan fill="#9aa397"> ~ $ </tspan><tspan>whoami</tspan></text></g>
-<g class="ln1"><text x="36" y="123" fill="#eeeee5">Backend Engineer <tspan fill="#ccff5f">·</tspan> AI Builder</text></g>
-<g class="ln2"><text x="36" y="176"><tspan fill="#ccff5f">&gt;</tspan><tspan fill="#9aa397"> building:</tspan><tspan> Alpha Twin / Axiom / AETHER</tspan></text></g>
+<g class="ln0"><text x="36" y="85"><tspan fill="#ccff5f">jiwon@dev</tspan><tspan fill="#9aa397"> ~ $ </tspan><tspan>ls projects/</tspan></text></g>
+<g><text class="project p1" x="36" y="128" fill="#ccff5f">Alpha Twin</text><text class="project p2" x="230" y="128">Axiom</text><text class="project p3" x="365" y="128">AETHER</text></g>
+<g class="ln2"><text x="36" y="176"><tspan fill="#ccff5f">&gt; </tspan><tspan>Build. Understand. Document.</tspan></text></g>
 <g class="ln3"><g><text x="36" y="218" fill="#ccff5f">$</text><rect x="56" y="205" width="10" height="18" fill="#ccff5f" class="cursor"/></g></g>
 </svg>
