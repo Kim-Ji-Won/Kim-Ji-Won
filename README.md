@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>백엔드에서 시작해, AI를 일상으로.</b><br/>
+  <b>Built on backend. Bringing AI to everyday life.</b><br/>
   <sub>Backend Engineering · Agent Systems · Learning by Building</sub>
 </p>
 
