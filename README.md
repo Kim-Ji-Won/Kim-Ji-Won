@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/ad88324863e99a4644fb5b12c2a20cd02b0f6d05/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=34&amp;duration=2800&amp;pause=2000&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=120&amp;lines=Hi%2C+I%27m+Jiwon.;Backend+%C2%B7+AI" width="100%" alt="Hi, I'm Jiwon. — Backend · AI" /></a>
 </p>
 
 <p align="center">
@@ -41,5 +41,5 @@
 </picture>
 
 <p align="center">
-  <sub>Made with <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
+  <sub>Made with <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/simple-icons/simple-icons">Simple Icons</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
 </p>
