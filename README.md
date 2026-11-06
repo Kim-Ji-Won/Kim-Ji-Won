@@ -6,6 +6,8 @@
   <b>Built on backend. Bringing AI to everyday life.</b>
 </p>
 
+<br/>
+
 ## 💻 Dev Session
 
 <p align="center">
