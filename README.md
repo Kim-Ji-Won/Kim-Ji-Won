@@ -21,10 +21,10 @@
 
 <sub>🚧 모두 개발 중 · Axiom은 런타임 기반 구현, AETHER는 초기 데스크톱 프로토타입 단계</sub>
 
-## 🪐 Code Universe
+## 💻 Dev Session
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/output/code-universe.svg" width="680" alt="Kim-Ji-Won's repositories orbiting in RepoVerse" />
+  <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/36a1804ac0f56eb5be1cace858b929b5a03e6acb/assets/terminal.svg" width="100%" alt="jiwon@dev — Backend Engineer · AI Builder — Building Alpha Twin / Axiom / AETHER" />
 </p>
 
 ## 🛠️ Working Stack
@@ -51,5 +51,5 @@
 
 <p align="center">
   <b>Build. Understand. Document.</b><br/>
-  <sub>Made with <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/nimaldanyathk/repo-verse">RepoVerse</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
+  <sub>Made with <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
 </p>
