@@ -2,18 +2,22 @@
   <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/4d21e19a25141735785e9f2bcda7afbda3fba9a7/assets/header.svg" width="100%" alt="JIWON — Backend Engineering · AI &amp; Data" />
 </p>
 
-## About
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI+%C2%B7+Data;Building+Alpha+Twin+%26+Axiom;Build.+Understand.+Document." width="100%" alt="Backend · AI · Data — Building Alpha Twin &amp; Axiom" /></a>
+</p>
+
+## 👋 About
 
 **Hi, I'm Jiwon.**  
 백엔드를 중심으로 **데이터와 AI를 서비스로 연결하는 개발자**를 지향합니다.
 
-- **Building** — Alpha Twin · AI 투자 인텔리전스 서비스 개발 중
+- **Building** — Alpha Twin · AI 투자 인텔리전스 / Axiom · Agent Runtime
 - **Exploring** — Backend Architecture · Data Engineering · LLM & RAG
 - **Mindset** — 직접 만들고, 설계 이유를 이해하고, 배운 것을 기록하기
 
 > **From data to systems, from ideas to code.**
 
-## What I Care About
+## 🎯 What I Care About
 
 개발하며 계속 고민하고 싶은 세 가지입니다.
 
@@ -23,7 +27,7 @@
 
 ---
 
-## Selected Work
+## 🚀 Selected Work
 
 ### [Alpha Twin ↗](https://github.com/Kim-Ji-Won/Alpha_Twin) &nbsp; · &nbsp; <sub>IN DEVELOPMENT</sub>
 
@@ -37,14 +41,21 @@
 
 <sub>GitHub 소스 공개 · 개발 진행 중</sub>
 
-### [LLM System Lab ↗](https://github.com/Kim-Ji-Won/LLM-System-Lab)
+### [Axiom ↗](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) &nbsp; · &nbsp; <sub>IN DEVELOPMENT</sub>
 
-LLM 학습, Transformer, 추론, RAG를 연결해서 이해하기 위한 인터랙티브 시각화.  
-**React · TypeScript · SVG**로 AI 시스템의 구조를 탐색하는 학습 프로젝트입니다.
+AI 에이전트의 실행 상태와 제어를 관리하는 **Reliable Agent Runtime**을 개발하고 있습니다. 모델의 판단과 실제 행동의 실행 권한을 분리하는 백엔드 인프라를 지향합니다.
+
+| Layer | Engineering focus |
+| :--- | :--- |
+| **API & Contracts** | Fastify 기반 Run 생성·조회 API · Zod 공유 계약 |
+| **State & Persistence** | PostgreSQL 저장 · 내부 queued → running 상태 전이 |
+| **Next Steps** | 실행 루프 · 도구 검증 · 승인 정책 · 복구와 재시도 |
+
+<sub>초기 개발 단계 · 실행 루프와 도구 실행은 구현 예정</sub>
 
 ---
 
-## Working Stack
+## 🛠️ Working Stack
 
 <p>
   <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/d13f599b0a5ae2ce37707c4c571a11671310925b/assets/stack.svg" width="100%" alt="TypeScript · Fastify · PostgreSQL · React Native · Expo" />
@@ -58,7 +69,7 @@ LLM 학습, Transformer, 추론, RAG를 연결해서 이해하기 위한 인터�
 | **Data & AI** | PostgreSQL · OpenDART · OpenAI API |
 | **Interface** | React · React Native · Expo |
 
-## Currently Learning
+## 🌱 Currently Learning
 
 프로젝트를 통해 더 깊게 이해하고 싶은 주제들입니다.
 
@@ -69,7 +80,7 @@ LLM 학습, Transformer, 추론, RAG를 연결해서 이해하기 위한 인터�
 | **LLM & RAG** | 어떤 근거를 검색하고 전달해야 답변의 신뢰도를 높일 수 있을까? |
 | **Testing & Evaluation** | 기능의 동작과 검색·분석 결과의 품질을 각각 어떻게 확인할까? |
 
-## Beyond the Code
+## 📝 Beyond the Code
 
 **Build, understand, document.** 구현과 함께 설계의 이유와 배운 점을 기록합니다.
 
