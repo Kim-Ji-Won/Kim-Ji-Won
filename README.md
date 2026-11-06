@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=25&amp;duration=3200&amp;pause=1400&amp;color=CCFF5F&amp;background=191C1B&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=68&amp;lines=Backend+%C2%B7+AI;Building+Alpha+Twin+%2B+Axiom+%2B+AETHER;Build.+Understand.+Document." width="100%" alt="Backend · AI — Building Alpha Twin, Axiom &amp; AETHER" /></a>
-</p>
-
-<p align="center">
-  <b>Built on backend. Bringing AI to everyday life.</b><br/>
-  <sub>Backend Engineering · Agent Systems · Learning by Building</sub>
+  <b>Built on backend. Bringing AI to everyday life.</b>
 </p>
 
 ## 💻 Dev Session
@@ -47,5 +42,5 @@
 
 <p align="center">
   <b>Build. Understand. Document.</b><br/>
-  <sub>Made with <a href="https://github.com/DenverCoder1/readme-typing-svg">Typing SVG</a> · <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
+  <sub>Made with <a href="https://github.com/ryanpolasky/ryme.md">RyMe.md</a> · <a href="https://github.com/abozanona/pacman-contribution-graph">Arcade Contribution Graph</a></sub>
 </p>
