@@ -1,0 +1,90 @@
+name: Refresh profile animations
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/profile-animations.yml'
+permissions:
+  contents: read
+concurrency:
+  group: profile-animations
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: nimaldanyathk/repo-verse
+          ref: 9494de0afe78c44e5345635dc6d91ad72a76c425
+          path: repo-verse
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Generate repository universe
+        working-directory: repo-verse
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          npm ci --ignore-scripts
+          npx --yes tsx@4.20.6 scripts/generate.ts "$PROFILE_USER"
+      - name: Generate Pac-Man contribution animation
+        uses: abozanona/pacman-contribution-graph@294c47eff28a41339a279107ae771b5fa020037a
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+      - name: Collect and verify SVG files
+        run: |
+          mkdir -p generated
+          cp repo-verse/public/universe.svg generated/universe.svg
+          cp dist/pacman-contribution-graph.svg generated/
+          cp dist/pacman-contribution-graph-dark.svg generated/
+          python3 - <<'PY'
+          import pathlib, xml.etree.ElementTree as ET
+          for p in pathlib.Path("generated").glob("*.svg"):
+              root = ET.parse(p).getroot()
+              assert root.tag.endswith("svg"), p
+              assert p.stat().st_size > 1000, p
+              print(p.name, p.stat().st_size)
+          assert len(list(pathlib.Path("generated").glob("*.svg"))) == 3
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: profile-animations
+          path: generated/*.svg
+          retention-days: 7
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: profile-animations
+          path: ${{ runner.temp }}/profile-animations
+      - name: Publish generated images to output branch
+        env:
+          IMAGE_DIR: ${{ runner.temp }}/profile-animations
+        run: |
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git fetch origin output
+            git checkout -B output FETCH_HEAD
+          else
+            git checkout --orphan output
+            git rm -rf .
+          fi
+          cp "$IMAGE_DIR"/*.svg .
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add universe.svg pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "Refresh profile animations"
+          git push origin HEAD:output
