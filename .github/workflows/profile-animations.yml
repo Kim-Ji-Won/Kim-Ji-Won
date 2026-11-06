@@ -46,7 +46,16 @@ jobs:
           cp dist/pacman-contribution-graph.svg generated/
           cp dist/pacman-contribution-graph-dark.svg generated/
           python3 - <<'PY'
-          import pathlib, xml.etree.ElementTree as ET
+          import base64, pathlib, re, urllib.request, xml.etree.ElementTree as ET
+          universe = pathlib.Path("generated/universe.svg")
+          svg = universe.read_text()
+          avatars = set(re.findall(r'https://avatars\.githubusercontent\.com/[^"\s]+', svg))
+          for url in avatars:
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  mime = response.headers.get_content_type()
+                  encoded = base64.b64encode(response.read()).decode("ascii")
+              svg = svg.replace(url, f"data:{mime};base64,{encoded}")
+          universe.write_text(svg)
           for p in pathlib.Path("generated").glob("*.svg"):
               root = ET.parse(p).getroot()
               assert root.tag.endswith("svg"), p
