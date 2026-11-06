@@ -11,21 +11,17 @@
   <sub>Backend Engineering · Agent Systems · Learning by Building</sub>
 </p>
 
-## 🚀 Building Now
-
-| Project | What I'm building |
-| :--- | :--- |
-| [📈 **Alpha Twin**](https://github.com/Kim-Ji-Won/Alpha_Twin) | 기업 공시·재무 데이터와 AI를 연결하는 투자 인텔리전스 |
-| [⚙️ **Axiom**](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) | AI 에이전트의 실행 상태와 제어를 다루는 백엔드 런타임 |
-| [🔮 **AETHER**](https://github.com/Kim-Ji-Won/AETHER) | 한국어 음성 대화와 컴퓨터 작업을 목표로 하는 macOS AI Assistant |
-
-<sub>🚧 모두 개발 중 · Axiom은 런타임 기반 구현, AETHER는 초기 데스크톱 프로토타입 단계</sub>
-
 ## 💻 Dev Session
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/36a1804ac0f56eb5be1cace858b929b5a03e6acb/assets/terminal.svg" width="100%" alt="jiwon@dev — Backend Engineer · AI Builder — Building Alpha Twin / Axiom / AETHER" />
 </p>
+
+- [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — AI 투자 인텔리전스
+- [⚙️ **Axiom ↗**](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) — Reliable Agent Runtime
+- [🔮 **AETHER ↗**](https://github.com/Kim-Ji-Won/AETHER) — macOS AI Assistant
+
+<sub>🚧 In development</sub>
 
 ## 🛠️ Working Stack
 
