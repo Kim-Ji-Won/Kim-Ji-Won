@@ -14,11 +14,12 @@
   <img src="https://raw.githubusercontent.com/Kim-Ji-Won/Kim-Ji-Won/cd447358f029f4c9358e667ef65d4c58cf07cbb6/assets/terminal.svg" width="100%" alt="jiwon@dev — ls projects/ — Alpha Twin / Axiom / AETHER — Build. Understand. Document." />
 </p>
 
-- [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — AI Investment Intelligence
-- [⚙️ **Axiom ↗**](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) — Reliable Agent Runtime
-- [🔮 **AETHER ↗**](https://github.com/Kim-Ji-Won/AETHER) — macOS AI Assistant
-
-<sub>🚧 In development</sub>
+- [📈 **Alpha Twin ↗**](https://github.com/Kim-Ji-Won/Alpha_Twin) — Connecting Korean company filings and financial data with AI analysis.  
+  <sub>🚧 In development · Data integrations and mock screens</sub>
+- [⚙️ **Axiom ↗**](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime) — Building infrastructure to manage and control AI-agent workflows.  
+  <sub>🛠️ Early development · Run APIs, PostgreSQL persistence, and state transitions</sub>
+- [🔮 **AETHER ↗**](https://github.com/Kim-Ji-Won/AETHER) — Exploring a macOS AI assistant with permission-based actions.  
+  <sub>🧪 Experimental prototype · Native approval UI; AI integration planned</sub>
 
 ## 🛠️ Working Stack
 
@@ -28,11 +29,9 @@
 
 ## 🎯 Current Focus
 
-```text
-⚙️ Backend    API Design · PostgreSQL · Reliability
-🧠 AI         Agent Runtime · LLM · RAG
-🖥️ Desktop    Tauri · React · macOS
-```
+Building Axiom's execution-state foundation: keeping run transitions consistent in PostgreSQL, including when requests compete.
+
+[Explore the current implementation and roadmap →](https://github.com/Kim-Ji-Won/Axiom_Reliable-Agent-Runtime#readme)
 
 ## 👾 Commit Arcade
 
